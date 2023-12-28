@@ -1,0 +1,8 @@
+C:\Programming\C#\ImageMosaicGenerator\bin\Release\ImageMosaicGenerator.exe.config
+C:\Programming\C#\ImageMosaicGenerator\bin\Release\ImageMosaicGenerator.exe
+C:\Programming\C#\ImageMosaicGenerator\bin\Release\ImageMosaicGenerator.pdb
+C:\Programming\C#\ImageMosaicGenerator\obj\Release\ImageMosaicGenerator.csproj.AssemblyReference.cache
+C:\Programming\C#\ImageMosaicGenerator\obj\Release\ImageMosaicGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Programming\C#\ImageMosaicGenerator\obj\Release\ImageMosaicGenerator.csproj.CoreCompileInputs.cache
+C:\Programming\C#\ImageMosaicGenerator\obj\Release\ImageMosaicGenerator.exe
+C:\Programming\C#\ImageMosaicGenerator\obj\Release\ImageMosaicGenerator.pdb
